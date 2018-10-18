@@ -1,0 +1,8 @@
+.loginOk { 
+    font-size: 0;
+    color: brown;
+ }
+ .loginWrong { 
+    font-size: 12;
+    color: rgb(250, 10, 10);
+ }
